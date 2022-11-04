@@ -1,0 +1,5 @@
+Student name: Thijs Zoontjes
+Student number: 699102
+Github website: https://thijszoontjes.github.io/
+Github Respository: https://github.com/thijszoontjes/thijszoontjes.github.io
+
