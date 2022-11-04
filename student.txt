@@ -1,5 +1,6 @@
 Student name: Thijs Zoontjes
 Student number: 699102
+Class: INF1B
 Github website: https://thijszoontjes.github.io/
 Github Respository: https://github.com/thijszoontjes/thijszoontjes.github.io
 
