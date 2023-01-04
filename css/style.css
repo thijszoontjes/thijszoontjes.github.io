@@ -8,10 +8,11 @@ body {
 	
 	.copyright2 {
 		clear: left;
-		letter-spacing: normal;
+		letter-spacing: 2px;
 		line-height: normal;
-		text-indent: inherit;
-		word-spacing: 0;
+		text-indent: 30%; 
+	/*	word-indent: 30%; */
+		word-spacing: 1px;
 		text-transform: uppercase;
 		font-size: 20px;
 	}
@@ -90,10 +91,10 @@ body {
 
 	}
 	td > td {
-		padding-left:0;
+		padding-left:1px;
 	}
 	h1 + h2 {
-		padding-left:0;
+		padding-left:1px;
 	}
 	.table-pricing  {
 		float: left;
